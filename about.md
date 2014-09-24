@@ -13,7 +13,7 @@ permalink: /about/
 About Me
 --------------
 I am a PhD candidate in the ADAPT group, supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/).
-Recently, I am focus on *Choice of Plausible Alternatives* ([COPA](http://people.ict.usc.edu/~gordon/copa.html)) task.
+Recently, I'm focusing on *Choice of Plausible Alternatives* ([COPA](http://people.ict.usc.edu/~gordon/copa.html)) task.
 
 Research Interests
 -------------
