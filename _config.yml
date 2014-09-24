@@ -3,11 +3,11 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Zhiyi Luo"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
-email: a-mail@mail.mail
+email: jessieluo1991@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
