@@ -4,7 +4,7 @@ title: Zhiyi Luo
 permalink: /about/
 ---
 
-<a style="float:right" href=""><img src="/assets/images/about.jpg" width="300" height="300"></a>
+<a style="float:right" href=""><img src="/assets/images/about.jpg" width="250" height="250"></a>
 
 > PhD Candidate [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
 >
