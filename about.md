@@ -4,7 +4,8 @@ title: Zhiyi Luo
 permalink: /about/
 ---
 
-<a style="float:left" href=""><img src="assets/images/df_logo.jpg"></a>
+<a style="float:right" href=""><img src="/assets/images/df_logo.jpg"></a>
+
 > PhD Candidate [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
 >
 > Department of Computer Science
