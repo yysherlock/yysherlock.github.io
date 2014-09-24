@@ -5,19 +5,23 @@ permalink: /about/
 ---
 
 > PhD Candidate [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
+
 > Department of Computer Science
+
 > Shanghai Jiao Tong University
 
-## About Me
+# About Me
 I am a PhD candidate in the ADAPT group, supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/).
 
-## Research Interests
+# Research Interests
 
-## Education
+# Education
 > Shanghai Jiao Tong University
 >> Depart. of Computer Science, 2013 - current
+
 > The HongKong Polytechnic University (Exchange student)
 >> Depart. of Computing, 2012
+
 > SiChuan University
 >> Depart. of Computer Science, 2009 - 2013
 
