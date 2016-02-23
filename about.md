@@ -36,4 +36,6 @@ Education
 > SiChuan University
 >> Depart. of Computer Science, 2009 - 2013
 
-
+Publication
+--------------
+* **Zhiyi Luo**, Yuchen Sha, Kenny Zhu, Seung-Won Hwang and Zhongyuan Wang. Commonsense Causal Reasoning between Short Texts. *15th International Conference on Principles of Knowledge Representation and Reasoning (KR 2016)*.
