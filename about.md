@@ -26,17 +26,14 @@ Research Interests
 
 Education
 ----------------
-> Shanghai Jiao Tong University
+> 2013 - current, Shanghai Jiao Tong University, Depart. of Computer Science, PhD Student.
 >
->    Depart. of Computer Science, 2013 - current
 >
-> The HongKong Polytechnic University (Exchange student)
+> 2012, The HongKong Polytechnic University, Depart. of Computing, Exchange student.
 >
->    Depart. of Computing, 2012
 >
-> SiChuan University
+> 2009 - 2013, SiChuan University, Depart. of Computer Science, Bachelor.
 >
->    Depart. of Computer Science, 2009 - 2013
 
 Publication
 --------------
