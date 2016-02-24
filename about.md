@@ -6,7 +6,7 @@ permalink: /about/
 
 <a style="float:right" href=""><img src="/assets/images/about.jpg" width="240" height="245"></a>
 
-> PhD Candidate [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
+> PhD Student, [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
 >
 > Department of Computer Science
 >
@@ -38,4 +38,4 @@ Education
 
 Publication
 --------------
-* **Zhiyi Luo**, Yuchen Sha, Kenny Zhu, Seung-Won Hwang and Zhongyuan Wang. Commonsense Causal Reasoning between Short Texts. *15th International Conference on Principles of Knowledge Representation and Reasoning (KR 2016)*.
+* **Zhiyi Luo**, Yuchen Sha, Kenny Q. Zhu, Seung-Won Hwang and Zhongyuan Wang. Commonsense Causal Reasoning between Short Texts. *15th International Conference on Principles of Knowledge Representation and Reasoning (KR 2016)*.
