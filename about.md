@@ -6,7 +6,7 @@ permalink: /about/
 
 <a style="float:right" href=""><img src="/assets/images/about.jpg" width="240" height="245"></a>
 
-> PhD Student, [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
+> PhD Student<!--, [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)-->
 >
 > Department of Computer Science
 >
