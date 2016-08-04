@@ -6,7 +6,7 @@ permalink: /about/
 
 <a style="float:right" href=""><img src="/assets/images/about.jpg" width="240" height="245"></a>
 
-> PhD Student<!--, [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)-->
+> PhD Student, [ADAPT Lab](http://adapt.seiee.sjtu.edu.cn/)
 >
 > Department of Computer Science
 >
@@ -15,13 +15,11 @@ permalink: /about/
 
 About Me
 --------------
-<!-- I am a PhD candidate in the ADAPT group, supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). Recently, I am focusing on *Causal Knowledge Representation* task. 
-See [this paper](http://adapt.seiee.sjtu.edu.cn/causal/luo.pdf) for further illustration. -->
-I am a PhD candidate in the Department of Computer Science, Shanghai Jiao Tong University. Recently, I am interested in *Knowledge Representation* research area.
+I am a PhD candidate in the ADAPT group, supervised by [Kenny Q. Zhu](http://www.cs.sjtu.edu.cn/~kzhu/). 
 
 Research Interests
 -------------
-* Knowledge Discovery and Representation 
+* Representation Learning
 * Text Mining and Natural Language Processing
 * Most of Statistical Machine Learning
 
